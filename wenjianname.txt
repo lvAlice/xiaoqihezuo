@@ -1,0 +1,48 @@
+<div class="foot_ch about">
+<div class="div_list">
+<h3>关于我们</h3>
+<ul>
+<li><a class="a_gd" href="/channel/about/about.shtml" target="_blank">传智简介</a></li>
+<li><a class="a_gd" href="/subject/zhaopin/index.shtml" target="_blank">加入传智</a><!--<li><a class="a_gd" href="/channel/about/about.shtml" target="_blank">联系传智</a></li>--></li>
+</ul>
+</div>
+<div class="div_list">
+<h3>旗下品牌</h3>
+<ul>
+<li><a class="a_gd" href="http://www.itheima.com/">黑马程序员</a></li>
+<li><a class="a_gd" href="http://www.boxuegu.com" target="_blank">博学谷</a></li>
+<li><a class="a_gd" href="http://www.funit.cn" target="_blank">趣IT</a></li>
+</ul>
+</div>
+<div class="div_list">
+<h3>校区攻略</h3>
+<ul>
+<li><a class="a_gd" href="http://bbs.itcast.cn/thread-85619-1-1.html" target="_blank">校区环境</a></li>
+<li><a class="a_gd" href="http://bbs.itcast.cn/thread-85619-1-1.html" target="_blank">住宿攻略</a></li>
+<li><a class="a_gd" href="http://bbs.itcast.cn/thread-85797-1-1.html" target="_blank">来校路线</a></li>
+</ul>
+</div>
+<div class="div_list">
+<h3>学习资源</h3>
+<ul>
+<li><a class="a_gd" href="http://v.itcast.cn/" target="_blank">资源下载</a></li>
+<li><a class="a_gd" href="http://open.itcast.cn" target="_blank">公开课</a></li>
+<li><a class="a_gd" href="http://www.boxuegu.com" target="_blank">云课堂</a></li>
+</ul>
+</div>
+<div class="div_list">
+<h3>传智故事</h3>
+<ul>
+<li><a class="a_gd" href="http://i.itcast.cn" target="_blank">学员故事</a></li>
+<li><a class="a_gd" href="http://www.funit.cn/label-1.html?tt=%BF%C6%BC%BC%DF%F7%DF%F7%DF%F7" target="_blank">科技喵喵喵</a></li>
+</ul>
+</div>
+<div class="div_list div_wx">
+<div style="margin-right: 30px"><img src="/images/wx_cz.jpg">
+<p>传智播客官方微信</p>
+</div>
+<div><img src="/images/wx_hm.jpg">
+<p>黑马程序员官方微信</p>
+</div>
+</div>
+</div>
